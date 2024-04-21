@@ -1,8 +1,8 @@
-# CTF-Website-Template-2020
+# CTF-Website-Template-2024
 
 [ TLDR ] Front end of a Capture the Flag ( CTF ) website. 
 
-CTF-Website-Template-2020 is a frontend template made for a simple CTF event. You can use it for hosting your own events. It consists of the following features:
+CTF-Website-Template-2024 is a frontend template made for a simple CTF event. You can use it for hosting your own events. It consists of the following features:
 - Home Page
 - Login Page
 - Register Page
